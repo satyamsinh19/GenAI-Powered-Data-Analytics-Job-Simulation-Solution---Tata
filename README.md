@@ -1,4 +1,4 @@
-<h1 align="center"> GenAI-Powered-Data-Analytics-Job-Simulation-Solution---Tata</h1>
+<h1 align="center"> GenAI Powered Data Analytics Job Simulation Solution Tata (Forage)</h1>
 <h1 align="center">Geldium Loan Delinquency Prediction & Ethical AI Collections System 🚀</h1>
 
 A comprehensive data science project outlining a predictive model for loan delinquency and proposing an ethical, AI-driven strategy for customer collections management.
