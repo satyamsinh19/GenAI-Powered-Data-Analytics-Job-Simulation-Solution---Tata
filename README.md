@@ -26,7 +26,7 @@ All final reports, plans, and presentations are available as PDF and PowerPoint 
 The initial analysis assessed data quality and identified early risk indicators to prepare the dataset for modeling.
 
 ### Key Findings & Risk Indicators
-* **High Credit Utilization** (>$0.6$) indicates financial overextension and high repayment stress.
+* **High Credit Utilization** (>0.6) indicates financial overextension and high repayment stress.
 * **Missed\ Payments** $\ge 4$ is a direct behavioral signal of high delinquency risk.
 * **Debt\_to\_Income\_Ratio** $> 0.4$ suggests poor affordability and high default probability.
 * **Low Credit\_Score** $(<500)$ strongly predicts delinquency.
